@@ -1,0 +1,29 @@
+.container-diario {
+  background-color: rgba(240, 240, 240, 0.1);
+  padding: 20px;
+  border-radius: 10px;
+  margin: 20px 0;
+}
+
+.container-5dias h3 {
+  font-size: 1.25rem;
+  margin-bottom: 10px;
+}
+
+.container-5dias {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.diaria {
+  text-align: center;
+  background-color: rgba(240, 240, 240, 0.1);
+  padding: 5px;
+  border-radius: 10px;
+}
+
+.diaria p {
+  margin: 5px 0;
+  text-transform: capitalize;
+}
